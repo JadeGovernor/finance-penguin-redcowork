@@ -1,0 +1,44 @@
+[
+ {
+  "code": "000977.SZ",
+  "name": "浪潮信息",
+  "price": 62.05,
+  "changePct": -4.08,
+  "updatedAt": 1791794471130
+ },
+ {
+  "code": "300308.SZ",
+  "name": "中际旭创",
+  "price": 724.47,
+  "changePct": -6.41,
+  "updatedAt": 1791794471130
+ },
+ {
+  "code": "002837.SZ",
+  "name": "英维克",
+  "price": 48.85,
+  "changePct": -4.01,
+  "updatedAt": 1791794471130
+ },
+ {
+  "code": "600519.SH",
+  "name": "贵州茅台",
+  "price": 1288,
+  "changePct": 1.98,
+  "updatedAt": 1791794471130
+ },
+ {
+  "code": "688836.SH",
+  "name": "宇树科技-W",
+  "price": 421.29,
+  "changePct": -2.48,
+  "updatedAt": 1791794471130
+ },
+ {
+  "code": "688017.SH",
+  "name": "绿的谐波",
+  "price": 252.02,
+  "changePct": -4.45,
+  "updatedAt": 1791794471130
+ }
+]
